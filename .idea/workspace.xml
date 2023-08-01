@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c876337e-4b13-495e-bd2b-0ae6a91d9434" name="변경" comment="클래스 생성">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoffeeMachine/Coffeemachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoffeeMachine/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Barista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coffe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoffeMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuItem.java" beforeDir="false" />
+    <list default="true" id="c876337e-4b13-495e-bd2b-0ae6a91d9434" name="변경" comment="class수정">
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +44,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="CoffeeMachine" />
       <recent name="CoffeMachine" />
       <recent name="" />
     </key>
@@ -74,11 +66,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690854471904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class수정">
+      <option name="closed" value="true" />
+      <created>1690859803445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690859803445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="클래스 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="클래스 생성" />
+    <MESSAGE value="class수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="class수정" />
   </component>
 </project>
