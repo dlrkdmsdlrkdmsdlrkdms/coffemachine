@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c876337e-4b13-495e-bd2b-0ae6a91d9434" name="변경" comment="패키지 생성 후 Manual 클래스 추가">
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+    <list default="true" id="c876337e-4b13-495e-bd2b-0ae6a91d9434" name="변경" comment="readMe.md 추가">
+      <change beforePath="$PROJECT_DIR$/src/CoffeeMachine/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoffeeMachine/Manual.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c1825c41-be16-4d99-bbd9-888741fb7838" />
+        <option name="url" value="https://github.com/dlrkdmsdlrkdmsdlrkdms/coffemachine.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1690860145839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="readMe.md 추가">
+      <option name="closed" value="true" />
+      <created>1690861330693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690861330693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="클래스 생성" />
     <MESSAGE value="class수정" />
     <MESSAGE value="패키지 생성 후 Manual 클래스 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지 생성 후 Manual 클래스 추가" />
+    <MESSAGE value="readMe.md 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="readMe.md 추가" />
   </component>
 </project>

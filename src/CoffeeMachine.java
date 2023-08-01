@@ -1,6 +1,4 @@
-package CoffeeMachine;
-
-class CoffeeMachine {
+public class CoffeeMachine {
     private Coffee[] menu;
     private int waterStock;
     private int coffeeStock;
@@ -48,3 +46,4 @@ class CoffeeMachine {
         }
     }
 }
+

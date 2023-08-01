@@ -1,14 +1,11 @@
-package CoffeeMachine;
-
 import java.util.Scanner;
-
-public class Manual {
+public class Menu {
     public static void main(String[] args) {
         Coffee[] menu = {
-                new Coffee("에스프레소", 4000),
+                new Coffee("에스프레소", 1000),
                 new Coffee("아메리카노", 1500),
-                new Coffee("카페라떼", 7000),
-                new Coffee("카푸치노", 6000)
+                new Coffee("카페라떼", 2000),
+                new Coffee("카푸치노", 2500)
         };
 
         CoffeeMachine coffeeMachine = new CoffeeMachine(menu, 1000, 500, 300, 100);
@@ -26,5 +23,4 @@ public class Manual {
 
         scanner.close();
     }
-    }
-
+}
