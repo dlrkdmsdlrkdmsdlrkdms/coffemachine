@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Coffee {
     private String name;
     private int price;

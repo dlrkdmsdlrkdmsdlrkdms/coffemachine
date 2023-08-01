@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c876337e-4b13-495e-bd2b-0ae6a91d9434" name="변경" comment="readMe.md 추가">
-      <change beforePath="$PROJECT_DIR$/src/CoffeeMachine/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoffeeMachine/Manual.java" afterDir="false" />
+    <list default="true" id="c876337e-4b13-495e-bd2b-0ae6a91d9434" name="변경" comment="클래스 다시 수정">
+      <change beforePath="$PROJECT_DIR$/src/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coffee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +51,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "create.test.in.the.same.root": "true",
     "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,6 +61,20 @@
       <recent name="CoffeMachine" />
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Menu" />
+      <module name="CoffeMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Menu" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -103,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690861330693</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="클래스 다시 수정">
+      <option name="closed" value="true" />
+      <created>1690871221293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690871221293</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +133,7 @@
     <MESSAGE value="class수정" />
     <MESSAGE value="패키지 생성 후 Manual 클래스 추가" />
     <MESSAGE value="readMe.md 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="readMe.md 추가" />
+    <MESSAGE value="클래스 다시 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="클래스 다시 수정" />
   </component>
 </project>
